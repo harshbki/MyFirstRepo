@@ -1,2 +1,2 @@
 # MyFirstRepo
-this is for learning purpose
+this is just for learning purpose
